@@ -17,6 +17,8 @@ kheer
 drinks
 cocacola
 limca
+sprite
+thumsup
 
 
 thankyou
