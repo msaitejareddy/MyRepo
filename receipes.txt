@@ -1,9 +1,14 @@
 Favorite receipe
 
+non-veg
 1. chicken biryani
 2. mutton biryani
 3. kabab
 
+veg
+panner curry
+roti
+samosa
 
 
 thankyou
